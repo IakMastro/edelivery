@@ -1,0 +1,3 @@
+[submodule "edelivery-vue"]
+	path = app
+	url = git@github.com:IakMastro/edelivery-vue.git
